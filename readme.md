@@ -17,9 +17,9 @@ Le répertoire `lib` est organisé de manière à séparer clairement les diffé
  
 - 🛠️ **services :** Dossier pour les services de l'application.
   - **user_service.dart :** Gestion des utilisateurs.
-  - **cours_service.dart :** Gestion des publicités.
+  - **cours_service.dart :** Gestion des cours.
   - **notification_service.dart :** Gestion des notifications.
-  - **inscription_service.dart :** Logique du jeu, tirage, etc.
+  - **inscription_service.dart :** Gestion des inscriptions.
 
 
 ## 🚀 Présentation de l'Application
