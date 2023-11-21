@@ -5,7 +5,21 @@
 
 ## 📁 Présentation des Principaux Dossiers
 
-Une présentation des principaux dossiers de votre dépôt. Quelles sont les différentes ressources qu'il contient à la racine ? Par exemple, les maquettes, vos inspirations, etc. Si vous avez fait des efforts quant à l'organisation de vos fichiers dans le dossier `lib`, expliquez-les ici.
+Le répertoire `lib` est organisé de manière à séparer clairement les différentes composantes de l'application, facilitant ainsi la compréhension et la maintenance du code. Chaque page a son rôle spécifique, créant une expérience utilisateur cohérente et engageante.
+
+- 🚪 **main.dart :** Point d'entrée de l'application.
+- 📱 **screens :** Dossier contenant toutes les pages de l'application.
+  - **LoginPage.dart :** Page de login.
+  - **HomePage.dart :** Paged'acceuil.
+  - **cours.dart :** Page des cours
+  - **inscription.dart :** Page pour s'inscrire a cours.
+  - **profil.dart :** Page des paramètres de l'utilisateur.
+ 
+- 🛠️ **services :** Dossier pour les services de l'application.
+  - **user_service.dart :** Gestion des utilisateurs.
+  - **cours_service.dart :** Gestion des publicités.
+  - **notification_service.dart :** Gestion des notifications.
+  - **inscription_service.dart :** Logique du jeu, tirage, etc.
 
 
 ## 🚀 Présentation de l'Application
